@@ -1,0 +1,85 @@
+C:\Users\arisbethleijagarza\source\repos\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\ProyectoMercadoLibre.exe.config
+C:\Users\arisbethleijagarza\source\repos\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\ProyectoMercadoLibre.exe
+C:\Users\arisbethleijagarza\source\repos\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\ProyectoMercadoLibre.pdb
+C:\Users\arisbethleijagarza\source\repos\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.csprojAssemblyReference.cache
+C:\Users\arisbethleijagarza\source\repos\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.Form1.resources
+C:\Users\arisbethleijagarza\source\repos\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.Properties.Resources.resources
+C:\Users\arisbethleijagarza\source\repos\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.csproj.GenerateResource.cache
+C:\Users\arisbethleijagarza\source\repos\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.csproj.CoreCompileInputs.cache
+C:\Users\arisbethleijagarza\source\repos\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.exe
+C:\Users\arisbethleijagarza\source\repos\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.pdb
+D:\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\ProyectoMercadoLibre.exe.config
+D:\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\ProyectoMercadoLibre.exe
+D:\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\ProyectoMercadoLibre.pdb
+D:\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.csprojAssemblyReference.cache
+D:\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.Form1.resources
+D:\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.Properties.Resources.resources
+D:\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.csproj.GenerateResource.cache
+D:\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.csproj.CoreCompileInputs.cache
+D:\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.exe
+D:\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.pdb
+D:\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\Google.Protobuf.dll
+D:\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\Zstandard.Net.dll
+D:\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\BouncyCastle.Crypto.dll
+D:\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\Ubiety.Dns.Core.dll
+D:\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\Renci.SshNet.dll
+D:\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\System.Memory.dll
+D:\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\System.Buffers.dll
+D:\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\K4os.Compression.LZ4.dll
+D:\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\K4os.Hash.xxHash.dll
+D:\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\System.Numerics.Vectors.dll
+D:\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\MySql.Data.xml
+D:\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.exe.config
+D:\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.csproj.CopyComplete
+D:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\ProyectoMercadoLibre.exe.config
+D:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\ProyectoMercadoLibre.exe
+D:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\ProyectoMercadoLibre.pdb
+D:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\Google.Protobuf.dll
+D:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\Zstandard.Net.dll
+D:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\BouncyCastle.Crypto.dll
+D:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\Ubiety.Dns.Core.dll
+D:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\Renci.SshNet.dll
+D:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\System.Memory.dll
+D:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\System.Buffers.dll
+D:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\K4os.Compression.LZ4.dll
+D:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\K4os.Hash.xxHash.dll
+D:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\System.Numerics.Vectors.dll
+D:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\MySql.Data.xml
+D:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.csprojAssemblyReference.cache
+D:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.exe.config
+D:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.Form1.resources
+D:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.Properties.Resources.resources
+D:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.csproj.GenerateResource.cache
+D:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.csproj.CoreCompileInputs.cache
+D:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.csproj.CopyComplete
+D:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.exe
+D:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.pdb
+E:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\ProyectoMercadoLibre.exe.config
+E:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\ProyectoMercadoLibre.exe
+E:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\ProyectoMercadoLibre.pdb
+E:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\Google.Protobuf.dll
+E:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\Zstandard.Net.dll
+E:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\BouncyCastle.Crypto.dll
+E:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\Ubiety.Dns.Core.dll
+E:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\Renci.SshNet.dll
+E:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\System.Memory.dll
+E:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\System.Buffers.dll
+E:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\K4os.Compression.LZ4.dll
+E:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\K4os.Hash.xxHash.dll
+E:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\System.Numerics.Vectors.dll
+E:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\bin\Debug\MySql.Data.xml
+E:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.csprojAssemblyReference.cache
+E:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.exe.config
+E:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.Form1.resources
+E:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.Properties.Resources.resources
+E:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.csproj.GenerateResource.cache
+E:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.csproj.CoreCompileInputs.cache
+E:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.csproj.CopyComplete
+E:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.exe
+E:\Proyecto y ejercicios\ProyectoMercadoLibre\ProyectoMercadoLibre\obj\Debug\ProyectoMercadoLibre.pdb
